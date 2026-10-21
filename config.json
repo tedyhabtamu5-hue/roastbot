@@ -2,11 +2,11 @@
   "enabled": true,
   "intensity": "savage",
   "off_limits": [
-    "religion",
     "race and ethnicity",
     "disability",
     "people's families",
-    "death"
+    "death",
+    "religion"
   ],
-  "notes": ""
+  "notes": "roast in english "
 }
