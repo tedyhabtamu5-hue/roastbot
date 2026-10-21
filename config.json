@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "intensity": "savage",
+  "off_limits": [
+    "religion",
+    "race and ethnicity",
+    "disability",
+    "people's families",
+    "death"
+  ],
+  "notes": ""
+}
